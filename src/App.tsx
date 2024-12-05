@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>ai todolist</h1>
+      <h1 className='tex-3xl font-bold underline'>ai todolist</h1>
     </>
   )
 }
